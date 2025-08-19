@@ -2,7 +2,7 @@
 output.xml
 log.html
 report.html
-*.png
+# *.png
 
 # Arquivos de configuração específicos do ambiente
 .env
