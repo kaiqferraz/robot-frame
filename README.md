@@ -43,3 +43,14 @@ Para executar os testes, utilize o comando:
 ```sh
 robot -d results tests/
 ```
+
+## Exemplo e evidência de execução
+
+Console:
+![alt text](exemplos/console.png)
+
+Resultados:
+![alt text](exemplos/report.png)
+
+Teste web:
+![alt text](exemplos/testeWeb.png)
